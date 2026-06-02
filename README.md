@@ -6,6 +6,7 @@
 - 🌱 I’m currently learning **Frameworks, Courses etc**
 
 - 👨‍💻 One of my projects are available at [https://halloween-rosy.vercel.app/](https://halloween-rosy.vercel.app/)
+- other projects are also in my profile you can also check it out letter.
 
 - 📫 How to reach me **2005dp0503@gmail.com**
 
