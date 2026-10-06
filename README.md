@@ -17,12 +17,7 @@
 
 <h3><code>devarsh@github ~ $ whoami</code></h3>
 
-<table>
-<tr>
-<td valign="top"><img src="./devarsh-ascii.svg" width="420" alt="Devarsh — ASCII portrait" /></td>
-<td valign="top"><img src="./stats.svg" width="420" alt="Devarsh's GitHub streak and contribution stats — auto-refreshed daily" /></td>
-</tr>
-</table>
+<img src="./devarsh-ascii.svg" width="860" alt="Devarsh — ASCII portrait" />
 
 <br>
 <br>
